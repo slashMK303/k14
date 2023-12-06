@@ -1,0 +1,63 @@
+
+Beautiful Soup adalah pustaka Python untuk parsing dokumen HTML dan XML. 
+Pustaka ini umum digunakan untuk web scraping, tetapi juga dapat digunakan untuk 
+ekstraksi data dari jenis dokumen lainnya. Beautiful Soup adalah alat yang 
+powerful yang dapat digunakan untuk mengekstrak data dari berbagai sumber, 
+termasuk situs web, file lokal, dan string in-memory.
+
+Berikut adalah beberapa fitur Beautiful Soup:
+
+Dapat memparsing dokumen HTML dan XML.
+Dapat mengekstrak data dari dokumen menggunakan berbagai pemilih, 
+termasuk pemilih CSS, nama tag, dan atribut.
+Dapat menavigasi melalui pohon DOM dokumen.
+Dapat memodifikasi pohon DOM dokumen.
+Dapat menserialkan pohon DOM dokumen ke berbagai format, termasuk HTML, XML, dan JSON.
+Beautiful Soup adalah pustaka yang populer untuk web scraping karena mudah digunakan dan powerful. 
+Pustaka ini juga didokumentasikan dengan baik dan memiliki komunitas pengguna yang besar.
+
+Berikut adalah contoh cara menggunakan Beautiful Soup untuk mengekstrak data dari situs web:
+
+
+===================
+
+ode ini akan mencetak teks dari semua tag <p> di situs web.
+
+Berikut adalah penjelasan dari kode tersebut:
+
+Baris pertama dan kedua mengimpor modul requests dan Beautiful Soup.
+Baris ketiga menetapkan variabel url ke alamat URL situs web yang ingin kita ekstrak datanya.
+Baris keempat menggunakan modul requests untuk mengambil konten situs web.
+Baris kelima menggunakan Beautiful Soup untuk memparsing konten situs web.
+Baris keenam menggunakan metode find_all() untuk menemukan semua tag <p> dalam dokumen.
+Baris ketujuh hingga kesembilan menggunakan loop for untuk mencetak teks dari masing-masing tag <p>.
+Dengan menggunakan Beautiful Soup, kita dapat dengan mudah mengekstrak data dari situs web. 
+Kita dapat menggunakan berbagai pemilih untuk menemukan data yang kita cari. 
+Kita juga dapat menavigasi melalui pohon DOM dokumen untuk menemukan data yang lebih kompleks.
+
+
+r = read (membaca)
+w = wreat (menulis) = kursor di awal
+rb = biner untuk di baca
+wb = biner untuk menulis
+a = untuk menambahkan data = kursor di akhir
+
+MENUTUP MENTHOD
+f.close()
+g.close()
+
+f.write("")
+
+
+read(n) = membaca huruf atau lain
+readline(n) = membaca sampi akhir baris atau n karakter
+
+write(data) = menulis berkas dengan data
+
+readlines() = membaca seluruh baris
+
+
+berkas teks = isinya kode teks
+berkas biner = hanya bisa di buka dengan apk tertentu
+
+berurutan membaca satu persatu = (sikuensial)

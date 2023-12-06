@@ -1,0 +1,30 @@
+Text: Daftar isi
+Level: h2
+
+Text: Soekarno
+Level: h1
+
+Text: Nama
+Level: h2
+
+Text: Achmed Soekarno
+Level: h3
+
+Text: Kehidupan
+Level: h2
+
+Text: Masa kecil dan remaja
+Level: h3
+
+Text: Silsilah keluarga
+Level: h3
+
+Text: Perjuangan awal kemerdekaan
+Level: h2
+
+Text: Keterlibatan dalam Partai Nasional Indonesia
+Level: h3
+
+Text: Penangkapan, persidangan, dan pemenjaraan
+Level: h3
+

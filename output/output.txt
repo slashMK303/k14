@@ -1,0 +1,171 @@
+Text: Daftar isi
+Level: h2
+
+Text: Soekarno
+Level: h1
+
+Text: Nama
+Level: h2
+
+Text: Achmed Soekarno
+Level: h3
+
+Text: Kehidupan
+Level: h2
+
+Text: Masa kecil dan remaja
+Level: h3
+
+Text: Silsilah keluarga
+Level: h3
+
+Text: Perjuangan awal kemerdekaan
+Level: h2
+
+Text: Keterlibatan dalam Partai Nasional Indonesia
+Level: h3
+
+Text: Penangkapan, persidangan, dan pemenjaraan
+Level: h3
+
+Text: Penangkapan dan persidangan
+Level: h4
+
+Text: Hukuman dan penjara
+Level: h4
+
+Text: Diasingkan
+Level: h3
+
+Text: Perang Dunia II dan pendudukan Jepang
+Level: h2
+
+Text: Pendudukan Jepang
+Level: h3
+
+Text: Latar belakang dan invasi
+Level: h4
+
+Text: Kerjasama dengan Jepang
+Level: h4
+
+Text: Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan
+Level: h4
+
+Text: Panitia Persiapan Kemerdekaan Indonesia
+Level: h4
+
+Text: Penyerahan Jepang
+Level: h4
+
+Text: Penculikan ke Rengasdengklok
+Level: h4
+
+Text: Revolusi Nasional (1945–1949)
+Level: h2
+
+Text: Masa pergerakan nasional
+Level: h3
+
+Text: Masa penjajahan Jepang
+Level: h3
+
+Text: Masa Perang Revolusi
+Level: h3
+
+Text: Kepresidenan
+Level: h2
+
+Text: Masa marabahaya
+Level: h3
+
+Text: Granat Cikini
+Level: h4
+
+Text: Penembakan Istana Presiden
+Level: h4
+
+Text: Pencegatan Rajamandala
+Level: h4
+
+Text: Granat Makassar
+Level: h4
+
+Text: Penembakan Idul Adha
+Level: h4
+
+Text: Penembakan mortir Kahar Muzakar
+Level: h4
+
+Text: Granat Cimanggis
+Level: h4
+
+Text: Upaya pembunuhan karakter
+Level: h4
+
+Text: Masa embargo negara Adi Kuasa
+Level: h3
+
+Text: Masa keterpurukan
+Level: h3
+
+Text: Kematian
+Level: h2
+
+Text: Warisan
+Level: h2
+
+Text: Arsitektur
+Level: h3
+
+Text: Penghargaan
+Level: h2
+
+Text: Gelar Doctor Honoris Causa
+Level: h3
+
+Text: Tanda kehormatan
+Level: h3
+
+Text: Dalam Negeri
+Level: h4
+
+Text: Luar Negeri
+Level: h4
+
+Text: Karya tulis
+Level: h2
+
+Text: Pidato
+Level: h2
+
+Text: Musik
+Level: h2
+
+Text: Dalam budaya populer
+Level: h2
+
+Text: Buku
+Level: h3
+
+Text: Lagu
+Level: h3
+
+Text: Film, televisi, dan panggung pertunjukan
+Level: h3
+
+Text: Catatan
+Level: h2
+
+Text: Galeri
+Level: h2
+
+Text: Referensi
+Level: h2
+
+Text: Lihat pula
+Level: h2
+
+Text: Pranala luar
+Level: h2
+
