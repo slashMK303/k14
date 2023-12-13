@@ -1,0 +1,21 @@
+Text: Daftar isi
+Level: h2
+
+Text: Ahmad Azhar Basyir
+Level: h1
+
+Text: Pendidikan[sunting | sunting sumber]
+Level: h2
+
+Text: Karier[sunting | sunting sumber]
+Level: h2
+
+Text: Karya[sunting | sunting sumber]
+Level: h2
+
+Text: Meninggal[sunting | sunting sumber]
+Level: h2
+
+Text: Referensi[sunting | sunting sumber]
+Level: h2
+

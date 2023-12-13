@@ -1,0 +1,30 @@
+Text: Daftar isi
+Level: h2
+
+Text: Ahmad Dahlan
+Level: h1
+
+Text: Kehidupan awal[sunting | sunting sumber]
+Level: h2
+
+Text: Karier agama[sunting | sunting sumber]
+Level: h2
+
+Text: Muhammadiyah[sunting | sunting sumber]
+Level: h3
+
+Text: Karier lain[sunting | sunting sumber]
+Level: h3
+
+Text: Kehidupan pribadi[sunting | sunting sumber]
+Level: h2
+
+Text: Kematian dan warisan[sunting | sunting sumber]
+Level: h2
+
+Text: Dalam budaya populer[sunting | sunting sumber]
+Level: h2
+
+Text: Lihat pula[sunting | sunting sumber]
+Level: h2
+
