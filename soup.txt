@@ -1,3 +1,23 @@
 
         This repository consists of the basic python codes
       
+
+
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+url = input("Masukan url yang anda ingin analisis : ")
+response = requests.get(url)
+soup = BeautifulSoup(response.text, "html.parser")
+
+headers = [(header.text.strip(), header.name) for header in soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6"])]
+
+df = pd.DataFrame(headers, columns=["Text", "Level"])
+df.index += 1
+print(df)
+
+name = url.split("/")[-1]
+output_file = f"output/{name}.txt"
+
+df.to_csv(output_file, sep="\t", index_label="Index")
