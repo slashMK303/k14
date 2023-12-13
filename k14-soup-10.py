@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
+# url = "https://id.wikipedia.org/wiki/Windah_Basudara"
 url = input("Masukan url yang anda ingin analisis : ")
 response = requests.get(url)
 soup = BeautifulSoup(response.text, "html.parser")
